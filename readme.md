@@ -46,3 +46,9 @@ This was originally sourced from Brad Traversy's MERN 2022 Course
   - Axios is for handling the auth/goal api service requests
   - Components
     - Goalform, GoalItem, Header, Spinner
+
+
+## Chainleak Updates
+
+- Added .env file
+- Changed jwt password to something unique
